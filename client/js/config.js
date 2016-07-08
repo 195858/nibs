@@ -2,7 +2,7 @@ angular.module('nibs.config', [])
 
     .constant('SERVER_URL', 'https://crunchycerealco.herokuapp.com')
 
-    .constant('FB_APP_ID','1031536223581931')
+    .constant('FB_APP_ID','662260977254533')
 
     .constant('STATUS_LABELS', [
         'Forastero',
